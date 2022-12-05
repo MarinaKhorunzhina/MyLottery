@@ -13,6 +13,7 @@
 		9C46A4A629200FEB00AFA562 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C46A4A429200FEB00AFA562 /* Main.storyboard */; };
 		9C46A4A829200FEC00AFA562 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C46A4A729200FEC00AFA562 /* Assets.xcassets */; };
 		9C46A4AB29200FEC00AFA562 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C46A4A929200FEC00AFA562 /* LaunchScreen.storyboard */; };
+		9C46A4B32920103500AFA562 /* MyLottery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C46A4B22920103500AFA562 /* MyLottery.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9C46A4A729200FEC00AFA562 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C46A4AA29200FEC00AFA562 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9C46A4AC29200FEC00AFA562 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C46A4B22920103500AFA562 /* MyLottery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLottery.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9C46A49E29200FEB00AFA562 /* AppDelegate.swift */,
 				9C46A4A029200FEB00AFA562 /* SceneDelegate.swift */,
 				9C46A4A229200FEB00AFA562 /* ViewController.swift */,
+				9C46A4B22920103500AFA562 /* MyLottery.swift */,
 				9C46A4A429200FEB00AFA562 /* Main.storyboard */,
 				9C46A4A729200FEC00AFA562 /* Assets.xcassets */,
 				9C46A4A929200FEC00AFA562 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				9C46A4A329200FEB00AFA562 /* ViewController.swift in Sources */,
 				9C46A49F29200FEB00AFA562 /* AppDelegate.swift in Sources */,
 				9C46A4A129200FEB00AFA562 /* SceneDelegate.swift in Sources */,
+				9C46A4B32920103500AFA562 /* MyLottery.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
